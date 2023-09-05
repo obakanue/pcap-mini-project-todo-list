@@ -1,0 +1,4 @@
+*.txt
+
+.ipyn*
+__pycache__*
