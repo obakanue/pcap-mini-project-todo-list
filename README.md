@@ -16,7 +16,7 @@ This project was just a small practice project for me to test out Python feature
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/task-list-program.git
+   git clone https://github.com/obakanue/pcap-mini-project-todo-list.git
    ```
 
 2. Run the program:
